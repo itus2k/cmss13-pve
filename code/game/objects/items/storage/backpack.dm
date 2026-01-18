@@ -422,7 +422,7 @@
 /obj/item/storage/backpack/marine/standard
 	has_gamemode_skin = FALSE
 
-/obj/item/storage/backpack/marine/medic
+/obj/item/storage/backpack/marine/medic/imp
 	name = "\improper lightweight medical IMP backpack"
 	desc = "A variant of the standard-issue pack of the USCM and US Army forces, has a red cross drawn on it. Designed to lug gear into the battlefield using the Intuitive Mounting Point system on M3 armor."
 	icon_state = "imp_medic"
