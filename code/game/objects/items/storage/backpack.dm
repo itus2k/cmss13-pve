@@ -422,6 +422,13 @@
 /obj/item/storage/backpack/marine/standard
 	has_gamemode_skin = FALSE
 
+/obj/item/storage/backpack/marine/medic
+	name = "\improper lightweight medical IMP backpack"
+	desc = "A variant of the standard-issue pack of the USCM and US Army forces, has a red cross drawn on it. Designed to lug gear into the battlefield using the Intuitive Mounting Point system on M3 armor."
+	icon_state = "imp_medic"
+	item_state = "imp_medic"
+	has_gamemode_skin = FALSE //replace this with the atom_flag NO_SNOW_TYPE at some point, just rename it to like, NO_MAP_VARIANT_SKIN
+
 /obj/item/storage/backpack/marine/ammo_rack
 	name = "\improper IMP ammo rack"
 	desc = "A bare IMP frame with buckles designed to hold multiple ammo cans, but can fit any cumbersome box thanks to Marine ingenuity. Helps you lug around extra rounds or supplies."
