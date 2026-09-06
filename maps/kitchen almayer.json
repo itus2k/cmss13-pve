@@ -1,0 +1,9 @@
+{
+    "map_name": "USS Almayer",
+    "map_path": "map_files/Kitchen_Almayer",
+    "map_file": "Kitchen_Almayer.dmm",
+    "webmap_url": "Almayer",
+    "traits": [{"Marine Main Ship": true}],
+    "nightmare_path": "maps/Nightmare/maps/USS_Almayer/",
+    "platoon": "/datum/squad/marine/cryo"
+}

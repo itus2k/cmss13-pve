@@ -53,7 +53,9 @@
 #define MAP_BOSENMORI_BASHO "Bosenmori Basho"
 #define MAP_REDEMPTION_VALLEY "Redemption Valley" //valley with a military outpost and agricultural hamlet
 #define MAP_BINHAI_SUPPLY_STATION "Binhai Supply Station" //UPP asteroid base
+#define MAP_KITCHEN_ALMAYER "Kitchen Almayer" //For the Kitchen sleeper cell
 
+#define GAMEMODE_KITCHEN_HOLDOUT "Almayer Defense"
 #define GAMEMODE_WHISKEY_OUTPOST "Whiskey Outpost"
 #define GAMEMODE_HIVE_WARS "Hive Wars"
 

@@ -1,0 +1,10 @@
+/datum/job/command/aso
+	title = JOB_AUXILIARY_OFFICER
+	total_positions = 1
+	spawn_positions = 1
+	allow_additional = FALSE
+	scaled = FALSE
+	supervisors = "the game master"
+	flags_startup_parameters = ROLE_ADD_TO_DEFAULT
+	gear_preset = /datum/equipment_preset/uscm_ship/dcc
+	entry_message_body = "Your job is to keep order in this now Captainless ship. You are the most senior staff officer on deck that wasn't vented by the railgun shot that pierced through CIC. <br><br><b><huge>Prepare all staff for boarding.</b></huge>"
